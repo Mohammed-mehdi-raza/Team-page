@@ -72,6 +72,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/Mohammed-mehdi-raza)
+- Website [Team Page](https://{your-web-site-link})
+- GitHub [mohammed-mehdi-raza](https://github.com/Mohammed-mehdi-raza)
 <!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
