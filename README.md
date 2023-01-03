@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://flourishing-jalebi-003fe0.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -72,6 +72,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [Team Page](https://{your-web-site-link})
+- Website [Team Page](https://flourishing-jalebi-003fe0.netlify.app/)
 - GitHub [mohammed-mehdi-raza](https://github.com/Mohammed-mehdi-raza)
 <!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
